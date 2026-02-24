@@ -16,9 +16,9 @@ fun_fact = "I use fedora linux btw"
 
 ## Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=IzNard&show_icons=true&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=IzNard&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=IzNard&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=0xvectxr&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=0xvectxr&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0xvectxr&layout=compact&theme=tokyonight)
 
 ## Coding (and some non-coding) languages I know
 
