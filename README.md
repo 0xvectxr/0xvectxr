@@ -38,6 +38,6 @@ fun_fact = "I use artix linux + niri btw"
 
 ## Tools i use in my day-to-day
 
-[![My Tools](https://skillicons.dev/icons?i=vscode,vim,bash)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=neovim,bash)](https://skillicons.dev)
 
 ---
