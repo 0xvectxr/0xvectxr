@@ -9,9 +9,9 @@
 Cybersecurity Enthusiast, my passions are **coding**, **cybersecurity**, **physics**, and **mathematics**. Currently training cybersecurity (**Red Team**) and expanding my Python experience.
 
 ```python
-interests = ["Physics", "Mathematics", "Cybersecurity", "Python, C and C++"]
+interests = ["Physics", "Mathematics", "Cybersecurity", "Python, Rust, C and C++"]
 currently_learning = "Pentesting"
-fun_fact = "I use fedora linux btw"
+fun_fact = "I use artix linux + niri btw"
 ```
 
 ## Stats
